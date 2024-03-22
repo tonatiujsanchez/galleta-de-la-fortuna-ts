@@ -7,7 +7,7 @@ export const ButtonPhrase:FC<Props> = ({ onClick }) => {
   return (
     <button
         onClick={ onClick }
-        className="button-phrase"
+        className="phrase__button"
     >
         Probar mi suerte
     </button>
